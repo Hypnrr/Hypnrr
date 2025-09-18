@@ -10,7 +10,7 @@
 
 💻 Languages I canwork with: 
 
-(https://skillicons.dev/icons?i=js,html,css,java,python,maven)(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,maven)](https://skillicons.dev)
 
 📬 Contact Me:
 
