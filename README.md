@@ -4,15 +4,15 @@
 
 🚀 What I Do:
 
-* 🛠️ Develop & optimize **Minecraft servers**
-* 🔌 Code **custom Minecraft plugins**
-* 🤖 Build **automation tools & Discord bots**
+* 🛠️ Develop Minecraft **Plugins**
+* 🔌 Code **Python projects**
+* 🤖 Build **Automation tools & Discord bots**
 
 💻 Languages I canwork with: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,mysql,css,java,python,maven)](https://skillicons.dev)
 
-📬 Contact Me:
+📬 Contact Me At:
 
 * 💬 Discord: `@chearing`
 * 📧 Email: `admin@cyroxmc.fun`
