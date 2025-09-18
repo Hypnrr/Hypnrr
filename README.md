@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Hypnrr/Hypnrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hey, I’m **Hypnr** — a 15 y/o developer mainly focused on **Minecraft plugin development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Do:
+
+* 🛠️ Develop & optimize **Minecraft servers**
+* 🔌 Code **custom Minecraft plugins**
+* 🤖 Build **automation tools & Discord bots**
+
+💻 Languages I canwork with: 
+
+(https://skillicons.dev/icons?i=js,html,css,java,python,maven)
+
+📬 Contact Me:
+
+* 💬 Discord: `@chearing`
+* 📧 Email: `admin@cyroxmc.fun`
+
+
