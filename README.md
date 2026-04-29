@@ -10,11 +10,12 @@
 
 💻 Languages I canwork with: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,mysql,css,java,python,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,mysql,c#,java,maven)](https://skillicons.dev)
 
 📬 Contact Me At:
 
 * 💬 Discord: `@chearing`
-* 📧 Email: `admin@cyroxmc.fun`
+* 📧 Email: `faiyazbhuiyan45@gmail.com`
+* 🍚 Instagram: `@hypnr.nah`
 
 
