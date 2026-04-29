@@ -5,7 +5,7 @@
 🚀 What I Do:
 
 * 🛠️ Develop Minecraft **Plugins**
-* 🔌 Code **Python projects**
+* 🔌 Work with **Databases and server management**
 * 🤖 Build **Automation tools & Discord bots**
 
 💻 Languages I canwork with: 
